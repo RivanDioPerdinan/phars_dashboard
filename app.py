@@ -7,7 +7,7 @@ from datetime import datetime
 # ----------------------------
 # Page config + minimal styling
 # ----------------------------
-st.set_page_config(page_title="PHARS", layout="wide")
+st.set_page_config(page_title="PHARS-COVID 19", layout="wide")
 st.markdown("""
 <style>
     .block-container { padding-top: 1.2rem; padding-bottom: 1.5rem; }
