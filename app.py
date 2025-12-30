@@ -16,7 +16,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-st.title("PHARS")
+st.title("PHARS-COVID 19 Dashboard")
 st.caption("Public Health Analytics & Reporting System (M8 • M10 • M12) — baseline analytics upgraded into a deployable pitch.")
 
 # ----------------------------
